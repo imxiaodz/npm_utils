@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imxiaodz/npm_utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "xjz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imxiaodz/npm_utils/issues"
+  },
+  "homepage": "https://github.com/imxiaodz/npm_utils#readme"
+}
